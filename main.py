@@ -2,7 +2,7 @@ import os
 from utils import read_gps_data, write_gps_data
 from utils import gps_to_plane, plot_points_sequence, plot_gps_track
 from utils import split_track_by_states
-from hmm_tour_model import HMM_Tour
+from hmm_tour import HMM_Tour
 
 
 data_dir = 'data'
