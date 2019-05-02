@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<gpx>
+	<trk>
+		<name>rest1</name>
+		<trkseg>
+			<trkpt lat="42.446684" lon="-76.493479">
+				<ele>152.982</ele>
+				<time>2008-10-09T16:14:55Z</time>
+			</trkpt>
+			<trkpt lat="42.446684" lon="-76.493479">
+				<ele>149.029</ele>
+				<time>2008-10-09T16:15:17Z</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>rest2</name>
+		<trkseg>
+			<trkpt lat="42.161041" lon="-76.878753">
+				<ele>291.461</ele>
+				<time>2008-10-09T17:08:41Z</time>
+			</trkpt>
+			<trkpt lat="42.161163" lon="-76.878777">
+				<ele>293.814</ele>
+				<time>2008-10-09T17:19:09Z</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>rest3</name>
+		<trkseg>
+			<trkpt lat="41.115713" lon="-77.481634">
+				<ele>174.268</ele>
+				<time>2008-10-09T19:27:25Z</time>
+			</trkpt>
+			<trkpt lat="41.115726" lon="-77.481642">
+				<ele>174.227</ele>
+				<time>2008-10-09T19:27:58Z</time>
+			</trkpt>
+			<trkpt lat="41.115725" lon="-77.481642">
+				<ele>170.927</ele>
+				<time>2008-10-09T19:28:41Z</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>rest4</name>
+		<trkseg>
+			<trkpt lat="41.034582" lon="-77.650777">
+				<ele>208.670</ele>
+				<time>2008-10-09T19:49:00Z</time>
+			</trkpt>
+			<trkpt lat="41.034588" lon="-77.650764">
+				<ele>204.798</ele>
+				<time>2008-10-09T19:49:26Z</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>rest5</name>
+		<trkseg>
+			<trkpt lat="41.028380" lon="-77.653630">
+				<ele>196.137</ele>
+				<time>2008-10-09T19:55:50Z</time>
+			</trkpt>
+			<trkpt lat="41.028400" lon="-77.653576">
+				<ele>196.312</ele>
+				<time>2008-10-09T20:04:16Z</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>rest6</name>
+		<trkseg>
+			<trkpt lat="41.028483" lon="-77.638909">
+				<ele>201.617</ele>
+				<time>2008-10-09T20:46:12Z</time>
+			</trkpt>
+			<trkpt lat="41.028545" lon="-77.638771">
+				<ele>201.553</ele>
+				<time>2008-10-09T20:46:28Z</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
